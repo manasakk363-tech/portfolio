@@ -10,6 +10,15 @@ const projects = [
     tags: ['Power BI', 'SQL', 'Excel', 'Statistics'],
     link: 'https://github.com/manasakk363-tech',
   },
+   {
+    icon: '🏥',
+    badge: 'Data Analysis',
+    title: 'HR Analysis',
+    desc: 'Comprehensive analysis of insurance data to uncover patterns in claims, premium distributions, and customer segments. Built interactive Power BI dashboards to visualise risk factors and support underwriting decisions.',
+    highlights: ['Risk pattern identification', 'Claims trend visualisation', 'Customer segmentation dashboard'],
+    tags: ['Power BI', 'SQL', 'Excel', 'Statistics'],
+    link: 'https://github.com/manasakk363-tech',
+  },
   {
     icon: '📦',
     badge: 'Mini Project',
